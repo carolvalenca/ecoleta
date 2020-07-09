@@ -56,7 +56,7 @@ Tal projeto tem como objetivo facilitar a busca por entidades responsáveis por 
 <li>Ainda dentro da pasta, inicie o servidor
 <pre>node src/server.js</pre>
 </li>
-<li>No navegador, acesse a porta em que o processo foi iniciado digitando o comando a seguir na barra de endereços
+<li>No navegador, acesse a porta em que o processo foi iniciado digitando o comando a seguir na barra de navegação
 <pre>localhost:3000</pre>
 </li>
 
